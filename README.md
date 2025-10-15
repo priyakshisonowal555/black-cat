@@ -1,2 +1,3 @@
 # black-cat
-this is my first repository
+this is my first Git repository
+Author - Priyakshi
